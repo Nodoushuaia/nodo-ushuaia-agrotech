@@ -1,5 +1,5 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ab7d0260-d1ce-4177-b89b-ed830d464178" /># nodo-ushuaia-agrotech
-Infraestructura de Agricultura de Precisión en la Patagonia - Nodo 01.
+<img width="1920" height="1080" alt="logo nodo ushuaia" src="https://github.com/user-attachments/assets/ab7d0260-d1ce-4177-b89b-ed830d464178" />
+
 # Nodo 01: Infraestructura de Agricultura de Precisión - Ushuaia
 ### Oportunidad de Inversión Estratégica en AgTech de Alta Resiliencia
 
@@ -9,7 +9,7 @@ Infraestructura de Agricultura de Precisión en la Patagonia - Nodo 01.
 
 El modelo de negocio se basa en la sustitución de importaciones regionales. Actualmente, el suministro en Tierra del Fuego sufre un **colapso de la cadena de suministro** debido a:
 * **Inviabilidad Climática:** Producción local convencional inexistente por clima extremo.
-* **Dependencia Logística:** Alimentos que recorren +2.000 km perdiendo valor nutricional y frescura.
+* **Inestabilidad Logística:** Alimentos que recorren +2.000 km perdiendo valor nutricional y frescura.
 * **Costos Exorbitantes:** Precios inflados por fletes críticos e intermediarios.
 
 **Nuestra Solución:** Producción a **Kilómetro 0** mediante tecnología hidropónica **@Tomatopiu**. Independizamos la producción del clima, eliminamos el flete y capturamos el margen operativo que hoy se pierde en la cadena de transporte.

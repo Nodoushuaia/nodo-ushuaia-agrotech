@@ -6,7 +6,7 @@ Este documento detalla los mecanismos de distribución de flujo de caja y la pol
 
 Para garantizar la máxima seguridad financiera, el proyecto opera bajo un modelo de **Waterfall** de tres niveles, diseñado para priorizar la recuperación del capital externo antes de cualquier otra distribución de beneficios:
 
-* **Nivel 1: Devolución del Capital Inicial (Prioridad Absoluta).** El 50% de los flujos de caja netos distribuibles se asignan al inversor hasta que este haya recuperado la totalidad de su capital aportado.
+* **Nivel 1: Devolución del Capital Inicial (Prioridad Absoluta).** El 50% de los flujos de caja  distribuibles se asignan al inversor hasta que este haya recuperado la totalidad de su capital aportado.
 * **Nivel 2: Preferente de Retorno.** Una vez recuperado el capital inicial, se paga el  porcentaje de retorno preferencial sobre la inversión antes de pasar a la siguiente fase.
 * **Nivel 3: Distribución de Dividendos.** Solo después de cumplir los niveles 1 y 2, se procede a la distribución de utilidades excedentes entre los socios y el equipo de gestión.
 

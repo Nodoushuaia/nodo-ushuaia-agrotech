@@ -28,7 +28,17 @@ El proyecto prioriza la transparencia y la protección del patrimonio de sus soc
 1.  **Prioridad Absoluta al Capital Inicial:** El flujo de caja operativo se destina prioritariamente a la recuperación del capital invertido antes de la distribución de dividendos adicionales.
 2.  **Activos de Refugio:** Inversión respaldada por activos físicos tecnológicos y real estate productivo en una zona de alta demanda y baja oferta.
 3.  **Escalabilidad Regional:** El Nodo 01 es el modelo base para una red de nodos en toda la Patagonia (Geotag: Punta Arenas / Tierra del Fuego).
+## 🛡 Seguridad y Estructura para el Inversor
 
+El proyecto **Nodo Ushuaia** prioriza la transparencia y la mitigación de riesgos mediante una arquitectura financiera de grado institucional.
+
+* **[Ver Modelo Detallado de Retorno (Sistema Waterfall)](./ESTRUCTURA_FINANCIERA.md)**
+* **[Consultar Visión Técnica y de Mercado (Litepaper)](./LITEPAPER.md)**
+
+### Puntos Clave de Protección:
+1.  **Prioridad Absoluta al Capital Inicial:** El flujo de caja operativo se destina íntegramente a la recuperación del capital invertido antes de cualquier distribución de beneficios.
+2.  **Activos de Refugio:** Inversión respaldada por infraestructura física y tecnología **@Tomatopiu**.
+3.  **Soberanía y Resiliencia:** Independencia alimentaria garantizada frente a crisis logísticas globales y conflictos geopolíticos.
 ---
 
 ## 🤝 Investor Relations (Relación con Inversores)
